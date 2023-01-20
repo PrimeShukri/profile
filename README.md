@@ -16,13 +16,41 @@
 
 Analytical and detail-oriented professional with experience supporting, planning and coordinating daily operational and administrative functions. Demonstrated capacity to manage and coordinate tasks, projects and processes in support for effective business operations. Proven track record of accurately maintaining detailed records, generation of reports, coordinating meetings and multitasking within fast-paced environment. 
 
--	Excellent Written and Oral Communication Skills
--	Superior Organisational Skills
--	Strategic Planning
--	Analysis Skills
--	Knowledge of Human Resources
--	Leadership
--	People Person
+Financial programming
+
+Efficient at analyzing large financial data sets, using various programs. I know how to use Python and APIs to run robust financial analyses and build applications that rely on real-time data.
+
+Great understanding of financial modeling and financial statement analysis. Specifically;
+
+- Fintech Landscape
+- Time-Series Analysis
+- Financial Ratios
+
+Know how to use machine learning techniques to determine credit worthiness, buy and sell stocks, and more. Able to use:
+
+- Algorithmic trading
+- Random Forests
+- k-Nearest Neighbors
+- Support Vector Machines
+- Scikit-learn
+- Linear regression
+- Logistic regression
+- k-Means clustering
+- Neural networks
+- Forecasting
+- Amazon Web Services
+
+Has a technical understanding of how blockchains work and hands-on experience with Solidity, the blockchain language, and smart-contracts. Additionally, proficient in
+
+- Consensus algorithms
+- Transactions
+- Validation
+- Distributed ledger
+- Ethereum
+- Cryptocurrency
+- Mining
+- Truffle Suite
+- Ganache
 
 <br>
 
@@ -34,7 +62,12 @@ Analytical and detail-oriented professional with experience supporting, planning
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-hotpink.svg?style=for-the-badge&logo=SAS&logoColor=white)
 ![SPSS](https://img.shields.io/badge/spss-%23B7178C.svg?style=for-the-badge&logo=SPSS&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 <br>
 
