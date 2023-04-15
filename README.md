@@ -4,12 +4,12 @@
 
 <br>
 
-<h1 align="center">Hai <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"/> I'm SHUKRI A. WARSAME</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"/> I'm SHUKRI WARSAME</h1>
 
 <br>
 
 
-<h1>🙆 Talking about Personal Stuffs...</h1>
+<h1>🙆 All about me </h1>
 
 <br>
 
